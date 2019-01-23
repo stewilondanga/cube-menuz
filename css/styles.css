@@ -96,11 +96,12 @@ body {
   transform: perspective(400px) rotateY(0deg);
   /*   box-shadow: 0 2px 2px rgba(0, 0, 0, 0.5); */
   /*   background: black; */
-  /*  background: white;
+  background: white;
   color: black;
   cursor: pointer;
 }
 
+/*
 .containers {
   width: 520px;
   margin: 20px auto;
