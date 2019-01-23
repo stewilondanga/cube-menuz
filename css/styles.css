@@ -38,12 +38,12 @@ body {
   /*   height: 90%;
   width: 90%; */
   /*   border: 2px solid black; */
-  /*display: flex;
+  display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
   flex-wrap: wrap;
-/*   background: black; */
+  /*   background: black; */
   /*  border-radius: 5px;
   transition: all ease 0.5s;
 }
