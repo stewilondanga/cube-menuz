@@ -82,7 +82,6 @@ body {
   cursor: pointer;
 }
 
-/*
 .back_cube, .left_cube, .bottom_cube {
   background: red;
   padding: 5px 5px;
@@ -93,6 +92,7 @@ body {
   transition: all ease-in-out .2s;
 }
 
+/*
 .back_cube:hover, .left_cube:hover, .bottom_cube:hover{
   transform: perspective(400px) rotateY(0deg);
 /*   box-shadow: 0 2px 2px rgba(0, 0, 0, 0.5); */
